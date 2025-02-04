@@ -1,6 +1,6 @@
 
 export const Home = () => {
   return (
-    <h1>Welcome to AstroComm 🚀</h1>
+    <h1 className="underline">Welcome to AstroComm 🚀</h1>
   )
 }
